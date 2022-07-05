@@ -10,10 +10,12 @@ The purpose of this project is to use the Kickstarter data to analyze and visual
 The Kickstarter data were filtered by the Parent Category Theater and its corresponding Launch Date Year. The values used were the number of campaigns grouped by their Outcomes: Successful, Failed, and Canceled and by the Months of the Year. Then the Outcomes were sorted in descending order.
 
 Here is the pivot table used for the analysis:
+
 ![image_name](Outcomes_Table.png)
 
 Here is the line chart used for analysis:
-![image_name]( Theater_Outcomes_vs_Launch.png)
+
+![image_name](Theater_Outcomes_vs_Launch2.png)
 
 ### Analysis of Outcomes Based on Goals
 The Kickstarter data were filtered by the Subcategory Play. The values used were the number of campaigns listed by their Outcomes: Successful, Failed, and Canceled. It was then grouped by Goals in dollar-amount ranges. The percentage of each outcome was then calculated for each row.
