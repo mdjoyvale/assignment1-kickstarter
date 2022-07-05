@@ -36,7 +36,7 @@ The most challenging part of the assignment is setting up the COUNTIF formula to
 ## Results
 
 ### Conclusions about the Outcomes Based on Launch Date
-It appears that certain months in the year provide a higher outcome. Spring to the end of Summer provides the most results. The month of May sees the highest return in data. In December, there are not enough campaigns to quantify. The canceled campaigns stayed low throughout the year but with the highest number of cancellations in January and no cancellations in October.
+It appears that certain months in the year provide a higher outcome. Spring to the end of Summer provides the most results. The month of May sees the highest return in data. In December, there are not enough campaigns to quantify. The canceled campaigns stayed low throughout the year but with the highest number of cancellations were in January and no cancellations in October.
 The number of successful campaigns and failed campaigns are correlated. The canceled campaigns have no relation and did not impact the number of successful and failed campaigns.
 
 ### Conclusion about Outcomes Based on Goals
