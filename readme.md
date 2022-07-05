@@ -7,7 +7,7 @@ The purpose of this project is to use the Kickstarter data to analyze and visual
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-The Kickstarter data were filtered by Theater as the parent category and its corresponding Launch Date Year. The values used were the different types of Outcomes: Successful, Failed, and Canceled. It was then grouped by the Months of the Year and Outcomes were sorted in descending order so "Successful" is first.
+The Kickstarter data were filtered by Theater as the parent category and its corresponding Launch Date Year. The values used were the different types of Outcomes: Successful, Failed, and Canceled. It was then grouped by the Months of the Year and Outcomes were sorted in descending order.
 
 Here is the pivot table used for the analysis:
 
