@@ -31,7 +31,9 @@ Here is the line chart used for analysis:
 ![image_name](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-The most challenging part of the assignment is setting up the COUNTIF formula to display the Goal values in dollar-amount ranges for the Subcategory Play and by each Type of Outcome. It required strong attention to detail to make sure that the formula has the correct criteria.  It was also difficult not to overthink when interpreting the graphs. Knowing that the Kickstarter dataset has other fields that could affect the results, it was tough to stay focused only on such limited information.
+The most challenging part of the assignment is setting up the COUNTIF formula to display the Goal values in dollar-amount ranges for the Subcategory Play and by each Type of Outcome. It required strong attention to detail to make sure that the formula has the correct criteria.  
+
+It was also difficult not to overthink when interpreting the graphs. Knowing that the Kickstarter dataset has other fields that could affect the results, it was tough to stay focused only on such limited information. Staying concise and following the requirements helped to successfully complete the deliverables.
 
 ## Results
 
