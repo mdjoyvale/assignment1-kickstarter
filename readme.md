@@ -39,7 +39,7 @@ The most challenging part of the assignment is setting up the COUNTIF formula to
 It appears that certain months in the year provide a higher outcome. Spring to the end of Summer provides the most results. The month of May sees the highest return in data. In December, there are not enough campaigns to quantify. The canceled campaigns stayed low throughout the year but with the highest number of cancellations were in January and no cancellations in October.
 The number of successful campaigns and failed campaigns are correlated. The canceled campaigns have no relation and did not impact the number of successful and failed campaigns.
 
-### Conclusion about Outcomes Based on Goals
+### Conclusions about Outcomes Based on Goals
 The percentage of successful campaigns and failed campaigns are inversely proportionate. The higher the goal, the higher risk of failure. It is important to note the goal range of $35,000 to $44,999 where the successful campaign rate is consistently twice as higher as the failed campaigns rate. However, there are much fewer campaigns launched within this goal. The campaigns with a goal of below $5000 were the most successful.
 
 ### Limitations of Dataset
