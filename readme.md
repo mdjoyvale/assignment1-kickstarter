@@ -5,7 +5,6 @@
 ### Purpose
 
 ## Analysis and Challenges
-![image_name](Outcomes_Table.png)
 
 ### Analysis of Outcomes Based on Launch Date
 
