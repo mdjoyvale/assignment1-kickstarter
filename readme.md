@@ -15,7 +15,7 @@ Here is the pivot table used for the analysis:
 
 Here is the line chart used for analysis:
 
-![image_name]( Theater_Outcomes_vs_Launch.png)
+![image_name](Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
