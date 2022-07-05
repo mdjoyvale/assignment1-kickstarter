@@ -20,6 +20,15 @@ Here is the line chart used for analysis:
 
 ### Analysis of Outcomes Based on Goals
 
+Here is the pivot table used for the analysis:
+
+![image_name](Goals_Table.png)
+
+Here is the line chart used for analysis:
+
+![image_name](Outcomes_vs_Goals.png)
+
+
 ### Challenges and Difficulties Encountered
 
 ## Results
