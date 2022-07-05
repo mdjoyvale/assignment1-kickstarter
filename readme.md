@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this project is to use the Kickstarter data to analyze and visualize the Theater Campaigns Outcomes and how they fared in relation to their Launch Date and the Play Campaigns Funding Goals.
+The purpose of this project is to use the Kickstarter data to analyze and visualize the Theater Campaigns Outcomes and how they progressed in relation to their Launch Date and the Play Campaigns Funding Goals.
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
