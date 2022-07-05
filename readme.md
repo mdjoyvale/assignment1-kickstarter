@@ -48,4 +48,4 @@ The percentage of successful campaigns and failed campaigns are inversely propor
 The dataset used is only a small fraction of what is available. It is difficult to draw a reliable conclusion on how different campaigns performed in relation to their launch dates and their funding goals.
 
 ### Other Possible Tables and/or Graphs
-It would be helpful to also to do an analysis of Theater’s other subcategories campaigns: Musical and Spaces. We will have a more reliable conclusion if we also look at the outcomes based on goals for each subcategory.
+It would be helpful to also to do an analysis of Theater’s other subcategories campaigns: Musical and Spaces. We will have a more reliable conclusion if we also look at the line graphs of outcomes based on goals for each subcategory.
